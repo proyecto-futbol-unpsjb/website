@@ -1,10 +1,9 @@
 # Presentación
-El presente proyecto se enmarca en la actual cooperación que existe entre docentes y graduados de las carreras Licenciatura en Informática y Analista Programador Universitario, de la Universidad Nacional de la Patagonia San Juan Bosco, Facultad de Ingeniería sede Puerto Madryn, y docentes y alumnos de la Tecnicatura en Informática Profesional y Personal de la Escuela Secundaria de Formación Técnica Nro. 728 “Alfonsina Storni” de la ciudad de Puerto Madryn.
+El presente proyecto es fruto de la cooperación entre docentes y graduados de las carreras Licenciatura en Informática y Analista Programador Universitario, de la Universidad Nacional de la Patagonia San Juan Bosco, Facultad de Ingeniería, Sede Puerto Madryn, y docentes y alumnos de la Tecnicatura en Informática Profesional y Personal de la Escuela Secundaria de Formación Técnica Nro. 728 "Alfonsina Storni" de la ciudad de Puerto Madryn.
 
-Con el fin de generar interés en las carreras afines, un grupo de docentes, graduados y alumnos de ambas instituciones, trabaja desde finales del año 2017, en la concreción de los objetivos del presente proyecto. El medio que se utilizará es el robot Múltiplo N6 versión 2.0.
+Con el fin de generar interés y despertar vocaciones en el área de la Computación y la Informática, este proyecto impulsa la enseñanza de la programación mediante robots Múltiplo N6, mediante el dictado de pequeños cursos en las escuelas secundarias. En lo mismos, los alumnos aprenderan como estan diseñados los robots, y su programación mediante lenguajes visuales y/o textuales.
 
 <center>
 <img src="https://raw.githubusercontent.com/proyecto-futbol-unpsjb/website/master/img/n6max6_500x0.jpg" height="150" width="150" title="Robot Multiplo N6" alt="Robot Multiplo N6">
 </center>
 
-Las visitas serán programadas con cada escuela de manera de dictar pequeños cursos, donde se les contará cómo funcionan estos robots, y como el cursado de la carrera, con cada una de sus materias, permite generar el conocimiento para realizar el software necesario para controlarlos.
