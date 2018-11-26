@@ -1,6 +1,9 @@
 # Visitas
 
 ## Escuelas visitadas
+Aún no se realizaron visitas a escuelas del nivel medio.
+
+* * * 
 
 ## Proximamente
 
