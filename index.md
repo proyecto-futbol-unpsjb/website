@@ -3,6 +3,8 @@ El presente proyecto se enmarca en la actual cooperación que existe entre docen
 
 Con el fin de generar interés en las carreras afines, un grupo de docentes, graduados y alumnos de ambas instituciones, trabaja desde finales del año 2017, en la concreción de los objetivos del presente proyecto. El medio que se utilizará es el robot Múltiplo N6 versión 2.0.
 
+<center>
 <img src="https://raw.githubusercontent.com/proyecto-futbol-unpsjb/website/master/img/n6max6_500x0.jpg" height="150" width="150" title="Robot Multiplo N6" alt="Robot Multiplo N6">
+</center>
 
 Las visitas serán programadas con cada escuela de manera de dictar pequeños cursos, donde se les contará cómo funcionan estos robots, y como el cursado de la carrera, con cada una de sus materias, permite generar el conocimiento para realizar el software necesario para controlarlos.
