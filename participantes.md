@@ -7,7 +7,7 @@
 * Apu/Prof. Carlos Nacher
 * Dr. Javier Darío Orozco (Asesor del proyecto por la UNS)
 
-### Alumnos:
+### Alumnos
 * Adrian Andoro
 * Joaquín Lima
 * Mauricio Savarro
@@ -16,12 +16,12 @@
 * Lic. Rodrigo Tolosa
 
 ## Por la Escuela 728 Alfonsina Storni
-### Docentes:
+### Docentes
 * Prof. Roberto Bazo
 * Prof. Fernando Comerón
 * Prof. Julio Heredia
 
-### Estudiantes:
+### Estudiantes
 * Baltasar Delpueche Torga
 * Lucas Rubén Fernandez
 * Ignacio Aniotzbehere
