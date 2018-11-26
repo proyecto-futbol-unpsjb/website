@@ -7,7 +7,7 @@
 * Apu/Prof. Carlos Nacher
 * Dr. Javier Darío Orozco (Asesor del proyecto por la UNS)
 
-### Alumnos
+### Alumnos (Carrera Licenciatura en Informática)
 * Adrian Andoro
 * Joaquín Lima
 * Mauricio Savarro
