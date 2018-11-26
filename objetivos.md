@@ -1,7 +1,7 @@
 # Objetivos
 El principal objetivo del presente proyecto es generar interés y despertar vocaciones, entre los alumnos que cursen estudios en el nivel medio, por las carreras de informática y ciencias de la computación. 
 
-El objetivo final es generar a futuro nuevos profesionales en informática y computación, en la ciudad y la región. Esto conlleva un beneficio para el país, dado que es un área donde existe actualmente un importante déficit en el número de profesionales, y, como resultado, la demanda de personal idóneo no es satisfecha.
+El objetivo final es generar a futuro nuevos profesionales en informática y computación, en la ciudad y la región. Esto conlleva un beneficio para el país, dado que es un área donde existe actualmente un importante déficit en el número de profesionales, y, como resultado, la demanda actual de personal idóneo no es cubierta.
 
 Como objetivos secundarios, pero no menores, se busca:
 * Generar una cooperación duradera entre ambas instituciones (UNPSJB y la escuela Nro. 728), que se traduzca en una transferencia real de conocimiento de nuevas tecnologías y paradigmas de programación, en ambos sentidos.
