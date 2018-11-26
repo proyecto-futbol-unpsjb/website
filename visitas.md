@@ -5,7 +5,7 @@ Aún no se realizaron visitas a escuelas del nivel medio.
 
 * * * 
 
-## Proximamente
+## Próximamente
 
 ### Escuela 785
 * 1er encuentro: 27/11/2018
