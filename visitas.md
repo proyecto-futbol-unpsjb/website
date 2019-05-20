@@ -3,10 +3,10 @@
 ## Escuelas visitadas
 
 ### Escuela 785
-* 29 y 30 de noviembre, 2018. [Fotos del encuentro](https://www.facebook.com/pmunpsjbsadosky2018/posts/2229117783788844).
+* 29 y 30 de noviembre, 2018 - 6to 1ra, 5to 1era y 5to 2da. [Fotos del encuentro](https://www.facebook.com/pmunpsjbsadosky2018/posts/2229117783788844).
 
 ### Escuela 728
-* 4 y 7 de diciembre, 2018. [Fotos del encuentro](https://www.facebook.com/pmunpsjbsadosky2018/posts/2239754906058465).
+* 4 y 7 de diciembre, 2018 - 6to y 5to. [Fotos del encuentro](https://www.facebook.com/pmunpsjbsadosky2018/posts/2239754906058465).
 
 ### Escuela 750
 * 8 y 9 de mayo - 6to 2da.
