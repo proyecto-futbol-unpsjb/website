@@ -11,6 +11,7 @@
 * Adrian Andoro
 * Joaquín Lima
 * Mauricio Savarro
+* Francisco Gigena
 
 ### Graduados
 * Lic. Rodrigo Tolosa
