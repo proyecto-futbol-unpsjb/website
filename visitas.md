@@ -10,5 +10,7 @@
 
 ### Escuela 750
 * 8 y 9 de mayo - 6to 2da.
-* 13 y 16 de mayo - 5to 2da.
-* 20 y 21 de mayo - 5to 1era.
+* 13 y 16 de mayo - 5to 2da. 
+* 20 y 21 de mayo - 5to 1ra. Hum.
+* 22 y 24 de mayo - 5to. 3ra. Hum.
+* 27 y 28 de mayo - 5to. 1ra. EyA
